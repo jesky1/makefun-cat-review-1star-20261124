@@ -1,0 +1,8 @@
+{
+  "name": "makefun-cat-review-1star-20261124",
+  "version": "1.0.0",
+  "description": "One funny single-line one-star review from a house cat about its human, under 200 characters — entry for make.fun's \"Make the AI Judge Laugh: Cat Reviews Its Human\".",
+  "type": "module",
+  "main": "main.ts",
+  "license": "MIT"
+}
